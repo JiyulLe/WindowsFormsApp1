@@ -19,6 +19,8 @@ namespace WindowsFormsApp1
             //MessageBox.Show("안녕하세요우?");
 
             textBox_print.Text = "이것은\r\n멀티라인\r\n텍스트박스\r\n인데요.";
+            //sdffa
+            //sdfjksfj
         }
     }
 }
